@@ -1,0 +1,14 @@
+body {
+  font-family: arial;
+  overflow: hidden;
+}
+
+canvas {
+  /**border: 1px solid black;**/
+  display: none;
+}
+
+img {
+  /**border: 1px solid black;**/
+  overflow:hidden;
+}
